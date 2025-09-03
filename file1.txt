@@ -1,1 +1,3 @@
-hi, just first FILE in branch2
+
+hi, just first file of branch1
+
